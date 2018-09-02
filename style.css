@@ -1,0 +1,18 @@
+body {
+    font-family: 'Titillium Web', sans-serif;
+    margin: 0;
+}
+
+h1 {
+    text-align: center;
+}
+
+div {
+    padding-top: 40px;
+    padding-right: 40px;
+    padding-left: 60px;
+}
+
+p {
+    text-align: justify;
+}
