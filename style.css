@@ -5,6 +5,7 @@ body {
 
 h1 {
     text-align: center;
+    text-size: 1.8em;
 }
 
 div {
@@ -15,4 +16,5 @@ div {
 
 p {
     text-align: justify;
+    text-size: 1.2em;
 }
