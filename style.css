@@ -9,13 +9,10 @@ h1 {
     font-size: 1.8em;
 }
 
-div {
-    padding-top: 40px;
-    padding-right: 40px;
-    padding-left: 60px;
-}
-
 p {
     text-align: justify;
     font-size: 1.2em;
+    padding-top: 40px;
+    padding-right: 40px;
+    padding-left: 60px;
 }
